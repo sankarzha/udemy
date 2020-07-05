@@ -19,4 +19,3 @@ public class AppTest
     }
 }
 
-this is test
